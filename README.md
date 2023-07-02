@@ -272,5 +272,6 @@ Create the following navigation menus:
 Shopify's products, collections, pages, etc. allow you to create custom SEO titles and descriptions. Next.js Commerce is pre-configured to display these custom values, but also comes with sensible default fallbacks if they are not provided.
 
 ![Shopify SEO](https://user-images.githubusercontent.com/446260/233247701-0ff2a560-7949-4e6c-b3a8-8168ed6341f8.jpg)
-#   c o m m e r c e - d e m o  
+#   c o m m e r c e - d e m o 
+ 
  
